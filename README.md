@@ -7,13 +7,13 @@ Github 사용법은 수강하시는 LMS 스쿨의 Github 자료를 참고해봅�
 
 ### 참고글
 
-**노션 안내페이지 바로가기** : https://alike-blade-14a.notion.site/0d3090d710bf49a09af1c4a20ebe4aaa
+**노션 안내페이지 바로가기** : [링크] (https://alike-blade-14a.notion.site/0d3090d710bf49a09af1c4a20ebe4aaa)
 
 
 
 <p align="center"><img src="image_003.png" height="300px" width="300px"></p>
 
-**1st 컴페티션 바로가기** : https://www.kaggle.com/competitions/kdtai-1/
+**1st 컴페티션 바로가기** : [링크] (https://www.kaggle.com/competitions/kdtai-1/)
 
 ---
 
