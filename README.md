@@ -11,6 +11,7 @@ Github 사용법은 수강하시는 LMS 스쿨의 Github 자료를 참고해봅�
 
 1st 컴페티션 바로가기 : https://www.kaggle.com/competitions/kdtai-1/
 
+![1st_competition_brief]("img_003.png")
 
 ---
 
