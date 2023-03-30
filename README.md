@@ -5,13 +5,15 @@
 Github 사용법은 수강하시는 LMS 스쿨의 Github 자료를 참고해봅시다!
 
 
-#### 참고글
+### 참고글
 
-노션 안내페이지 바로가기 : https://alike-blade-14a.notion.site/0d3090d710bf49a09af1c4a20ebe4aaa
+**노션 안내페이지 바로가기** : https://alike-blade-14a.notion.site/0d3090d710bf49a09af1c4a20ebe4aaa
 
-1st 컴페티션 바로가기 : https://www.kaggle.com/competitions/kdtai-1/
 
-![1st_competition_brief]("img_003.png")
+
+<p align="center"><img src="image_003.png" height="300px" width="300px"></p>
+
+**1st 컴페티션 바로가기** : https://www.kaggle.com/competitions/kdtai-1/
 
 ---
 
@@ -19,7 +21,7 @@ Github 사용법은 수강하시는 LMS 스쿨의 Github 자료를 참고해봅�
 
 각 소그룹별로, 진행한 관련 자료를 해당되는 디렉토리에 직접 commit 및 push해주시면 됩니다!
 
-임시로 ** 'alphabet'반 ** 형태로 디렉토리를 생성하였으니, 팀명을 정하신 분들은 바꾸어 commit해주셔도 됩니다
+임시로 **'alphabet'반** 형태로 디렉토리를 생성하였으니, 팀명을 정하신 분들은 디렉토리 이름을 바꾸어 commit해주셔도 됩니다.
 
 ---
 
