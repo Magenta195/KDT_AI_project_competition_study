@@ -14,7 +14,9 @@ Github 사용법은 수강하시는 LMS 스쿨의 Github 자료를 참고해봅�
 <h3><p align="center"> 1st Competition : Covid-19 흉부 x-ray classification 과제 </p>
   
 <p align="center"><img src="image_003.png" height="300px" width="300px"></p>
-
+  
+<p align="center"><img src="./tables/dt.png"></p>
+  
 <h3><p align="center"> 바로가기 : <a href="https://www.kaggle.com/competitions/kdtai-1/">링크</a></p></h3>
 
  
