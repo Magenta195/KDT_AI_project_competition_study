@@ -9,21 +9,31 @@ Github 사용법은 수강하시는 LMS 스쿨의 Github 자료를 참고해봅�
 
 **노션 안내페이지 바로가기** : [**링크**](https://alike-blade-14a.notion.site/0d3090d710bf49a09af1c4a20ebe4aaa)
 
+---
+
 <p align="center"><img src="image_003.png" height="300px" width="300px"></p>
 
-**1st Competition** : Covid-19 흉부 x-ray classification 과제
+#### 1st Competition : Covid-19 흉부 x-ray classification 과제
 
-**rank**
-
-<p style="text-align: center;">
+<center>
+  
 |rank|name|score|
-|---|---|---|
+|:------:|:-------:|:-------:|
 | 1 | 유자차(F반) | 1.00 |
 | 2 | C반 | 1.00 |
 | 3 | E반 | 1.00 |
-</p>
+  
+</center>
 
-**바로가기** : [**링크**](https://www.kaggle.com/competitions/kdtai-1/)
+#### 바로가기 : [**링크**](https://www.kaggle.com/competitions/kdtai-1/)
+
+---
+
+<p align="center"><img src="final_image.png" height="300px" width="300px"></p>
+
+#### 2nd Competition : 한국어 혐오 및 차별 텍스트 분류 과제
+
+#### 바로가기 : [**링크**](https://www.kaggle.com/competitions/kdtai-2/)
 
 ---
 
