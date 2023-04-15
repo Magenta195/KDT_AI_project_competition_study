@@ -11,7 +11,19 @@ Github 사용법은 수강하시는 LMS 스쿨의 Github 자료를 참고해봅�
 
 <p align="center"><img src="image_003.png" height="300px" width="300px"></p>
 
-**1st 컴페티션 바로가기** : [**링크**](https://www.kaggle.com/competitions/kdtai-1/)
+**1st Competition** : Covid-19 흉부 x-ray classification 과제
+
+**rank**
+
+<p style="text-align: center;">
+|rank|name|score|
+|---|---|---|
+| 1 | 유자차(F반) | 1.00 |
+| 2 | C반 | 1.00 |
+| 3 | E반 | 1.00 |
+</p>
+
+**바로가기** : [**링크**](https://www.kaggle.com/competitions/kdtai-1/)
 
 ---
 
